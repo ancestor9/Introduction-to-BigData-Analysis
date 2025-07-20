@@ -2,7 +2,7 @@
 ### Python 배울 것들 (2주차 ~ 4주차)
 
 #### - Python 기본 문법(데이터형태, 변수, 제어문, 함수, CLass, 모듈 등)
-| Task                         | Single Value                           | Multiple Values                                | pandas                                         |
+| Task                         | Single Value                           | Multiple Values                                | Pandas                                         |
 |-----------------------------|----------------------------------------|------------------------------------------------|--------------------------------------------------------|
 | **Presentation (value, variable)** | `int`, `float`, `string`, `boolean`       | `list`, `tuple`, `dictionary`, `set`           | `ndarray`, `Series`, `DataFrame`                      |
 | **Operation (algebra)**     | expressions                            | operations, mutable operations                 | expressions, `get`, `set`, `reshape`, ...             |
