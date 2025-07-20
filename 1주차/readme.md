@@ -6,10 +6,7 @@
 
 ### Python 배울 것들
 #### - Python 기본 문법(데이터형태, 변수, 제어문, 함수, CLass, 모듈 등)
-#### - Pandas (엑셀과 같은 tabular 데이터를 핸들링(SQL 포함)하는 패키지)
-#### - Data Visualization (Matplotlib, Seaborn,...)
-
-| Task                         | Single Value                           | Multiple Values                                | numpy, pandas                                         |
+| Task                         | Single Value                           | Multiple Values                                | pandas                                         |
 |-----------------------------|----------------------------------------|------------------------------------------------|--------------------------------------------------------|
 | **Presentation (value, variable)** | `int`, `float`, `string`, `boolean`       | `list`, `tuple`, `dictionary`, `set`           | `ndarray`, `Series`, `DataFrame`                      |
 | **Operation (algebra)**     | expressions                            | operations, mutable operations                 | expressions, `get`, `set`, `reshape`, ...             |
