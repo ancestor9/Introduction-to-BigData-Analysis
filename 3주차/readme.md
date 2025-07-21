@@ -1,4 +1,4 @@
-### Multiple Values
+### Multiple Values(Data Structures)
 
 #### - Python 기본 문법(데이터형태, 변수, 제어문, 함수, CLass, 모듈 등)
 | Task                         | Single Value                           | Multiple Values                                | Pandas                                         |
