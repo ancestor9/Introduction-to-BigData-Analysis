@@ -1,4 +1,4 @@
-### Control flow
+### Control flow Statement (제어문)
 
 #### - Python 기본 문법(데이터형태, 변수, 제어문, 함수, Class, 모듈 등)
 | Task                         | Single Value                           | Multiple Values                                | Pandas                                         |
