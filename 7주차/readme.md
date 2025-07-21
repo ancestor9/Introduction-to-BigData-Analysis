@@ -17,4 +17,3 @@
 |------|-----------|
 | **테이블 구조 변환 및 결합** | - `.pivot()`, `.pivot_table()` 피벗 변환<br>- `.melt()`로 wide to long 변환<br>- `.merge()`, `.join()`, `pd.concat()`으로 테이블 결합<br>- `on`, `how` 인자를 통한 다양한 조인 수행 |
 | **시계열 데이터 및 텍스트 데이터 처리** | - `pd.to_datetime()`, `.resample()`, `.dt` 접근자 활용<br>- `.str` 접근자로 텍스트 전처리 (`.str.lower()`, `.str.extract()` 등)<br>- `.replace()`, `.apply()` 등을 이용한 텍스트 정제 |
-"""
