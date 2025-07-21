@@ -1,4 +1,4 @@
-### Functions (함수)
+### Functions (함수), 모듈과 패키지(Module, Package)
 
 #### - Python 기본 문법(데이터형태, 변수, 제어문, 함수, Class, 모듈 등)
 | Task                         | Single Value                           | Multiple Values                                | Pandas                                         |
