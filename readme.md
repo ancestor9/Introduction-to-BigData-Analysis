@@ -7,7 +7,7 @@
 - **머신러닝의 기초(14주차)**: [scikit-learn](https://scikit-learn.org/stable/)
 
 ## 2. 강의 내용
-#### 파이썬 기본문법 부교재 : https://github.com/jakevdp/WhirlwindTourOfPython
+#### [파이썬 기본문법 부교재](https://github.com/jakevdp/WhirlwindTourOfPython)
 
 | 주차   | 강의 주제                             | 주요 학습 내용 요약                                                                                 |
 |--------|----------------------------------------|-------------------------------------------------------------------------------------------------------|
