@@ -10,3 +10,7 @@
 ### 3. Survivorship bias
 - 죽은 자는 말이 없다.
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Survivorship-bias.svg/1200px-Survivorship-bias.svg.png' width = 500 height=400>
+
+
+## 📌 Statistics
+![Autodesk](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
