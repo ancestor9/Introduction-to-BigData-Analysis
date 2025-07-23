@@ -1,6 +1,6 @@
 ## 자료 시각화와 통계
 
-## Visualization 
+## 📊 Visualization 
 ### 1. https://informationisbeautiful.net/
 ### 2. 프랑스의 토목공학자 Charles Joseph Minard가 1869년에 제작
 - 나폴레옹의 1812년 러시아 원정 경로와 병력 수를 시각화
