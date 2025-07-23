@@ -1,7 +1,11 @@
 ## 미니 프로젝트
 
-### Adventure Works Internet Sales 데이터 수집 - 전처리 - 분석
-#### 1. 엑셀(
+### 대상 데이터 : Adventure Works Internet Sales 
+#### 데이터 수집 - 전처리 - 분석
+#### 1. 엑셀(7개 시트)파일을 읽고 데이터베이스(sqlite3)에 저장
+#### 2. 7개 시트를 각각 데이터프레임을 읽고 merger하기
+#### 3. merge한 파일의 데이터 전처리(결측치 처리, 컬럼 삭제 등)후 압축파일로 저장
+#### 4. 전처리된 데이터를 읽고 RFM(Recurrency, Frequency, Monetary 등)분석을 통해 고객가치 산정
 
 - [Adventure Works Internet Sales 자습서(1500)](https://learn.microsoft.com/ko-kr/analysis-services/tutorial-tabular-1400/as-adventure-works-tutorial?view=asallproducts-allversions)
 - [Data Stories Gallery](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
