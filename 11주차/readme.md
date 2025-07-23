@@ -13,4 +13,6 @@
 
 
 ## 📌 Statistics
-![Autodesk](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
+- 보이는 것이 사실이 아니야.
+### [Autodesk](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
+### [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
