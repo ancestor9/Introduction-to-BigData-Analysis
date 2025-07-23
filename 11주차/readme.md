@@ -7,7 +7,7 @@
 - 정보 시각화의 전설적인 사례로 평가됨
 <img src='https://images.squarespace-cdn.com/content/v1/55b6a6dce4b089e11621d3ed/9c1e9ba5-730b-47c4-909f-99844252faad/Minard.png?format=2500w'>
 
-### 3. Survivorship bias
+### 3. 생존 편향(Survivorship bias)
 - 죽은 자는 말이 없다.
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Survivorship-bias.svg/1200px-Survivorship-bias.svg.png' width = 500 height=400>
 
