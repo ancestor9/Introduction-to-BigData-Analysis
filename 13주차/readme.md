@@ -7,7 +7,7 @@
 
 
 
-### 🧠 Kaggle 개요 (미니 프로젝트 자습th)
+### 🧠 Kaggle 개요 (미니 프로젝트 자습소)
 
 - 데이터 과학과 머신러닝을 위한 세계 최대의 플랫폼
   👉 [https://www.kaggle.com](https://www.kaggle.com)
