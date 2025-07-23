@@ -16,4 +16,5 @@
 - 보이는 것이 사실이 아니야.
 ### 1. [Autodesk](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
 ### 2. [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+<img src='https://files.sgbsg.nl/learningspy/uploads/2017/04/26124223/quote-i-often-say-that-when-you-can-measure-what-you-are-speaking-about-and-express-it-in-numbers-you-lord-kelvin-307359.jpg'>
 
