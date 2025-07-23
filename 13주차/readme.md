@@ -7,14 +7,15 @@
 
 
 
-### 🧠 Kaggle 개요
+### 🧠 Kaggle 개요 (미니 프로젝트 자습th)
 
-- [Kaggle](https://www.kaggle.com)은 데이터 과학과 머신러닝을 위한 세계 최대의 플랫폼입니다.
+- 데이터 과학과 머신러닝을 위한 세계 최대의 플랫폼
+  👉 [https://www.kaggle.com](https://www.kaggle.com)
 - [Data Stories Gallery의 Kaggle](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)
 
 ---
 
-## 🔹 주요 기능
+### 🔹 주요 기능
 
 | 항목         | 설명 |
 |--------------|------|
@@ -26,7 +27,7 @@
 
 ---
 
-## 🔹 활용 예시
+### 🔹 활용 예시
 
 - 데이터 분석 실습 자료 활용
 - 수업 과제용 미니 프로젝트 설계
@@ -35,6 +36,4 @@
 
 ---
 
-## 🔗 공식 웹사이트
 
-👉 [https://www.kaggle.com](https://www.kaggle.com)
