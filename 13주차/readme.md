@@ -1,4 +1,4 @@
-# 미니 프로젝트
+## 미니 프로젝트
 
 ### Adventure Works Internet Sales 데이터 수집 - 전처리 - 분석
 
