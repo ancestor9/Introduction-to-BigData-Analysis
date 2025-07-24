@@ -3,4 +3,4 @@
 
 
 
-[variational Inference](http://www.openias.org/variational-coin-toss)
+[Variational Inference](http://www.openias.org/variational-coin-toss)
