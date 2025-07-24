@@ -1,6 +1,6 @@
-# 데이터분석 입문 (Syllabus)
+## 데이터분석 입문 (Syllabus)
 
-## 1. 강의 내용
+### 1. 강의 내용
 - **데이터분석에 대하여 :** 빅데이터분석 입문 소개 (1주차)
 - **Python 프로그래밍 :** 기본 문법과 실습 역량 습득 (2주차 ~ 6주차)
 - **Pandas 데이터 입문 :** 수집, 정제, 시각화, 통계분석 등 [Pandas](https://pandas.pydata.org/) (7주차)
@@ -10,7 +10,7 @@
 - **MS AdventureWorks Sales 데이터로 mini project :** 외부 실습 데이터 (14주차)
 - **기말 퀴즈 :** (15주차)
 
-## 2. 강의 내용
+### 2. 강의 내용
 #### [파이썬 기본문법 부교재](https://github.com/jakevdp/WhirlwindTourOfPython)
 
 | 주차   | 강의 주제                             | 주요 학습 내용 요약                                                                                 |
