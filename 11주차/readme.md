@@ -1,24 +1,19 @@
-# 데이터전처리를 먼저 수행하고 시각화와 통계작업을 후행 작업으로
-- data_preprocessing_visualization_statistics.ipynb 선행
+### 📘 Pandas 기능 정리표 (3개 그룹)
 
-## 자료 시각화와 통계
+#### 🟦 Pandas 1: 데이터 구조 및 기초 이해
+| 주제 | 기능 설명 |
+|------|-----------|
+| **Pandas 이해하기** | - `pd.DataFrame`, `pd.Series` 생성<br>- 다양한 데이터 구조를 지원 (CSV, Excel, SQL 등)<br>- `pd.read_csv()`, `pd.read_excel()` 등으로 데이터 불러오기 |
+| **Pandas 기초 이해하기** | - `.head()`, `.tail()`, `.info()`, `.describe()`로 데이터 구조 파악<br>- `df['col']`, `df[['col1', 'col2']]`로 열 선택<br>- `df.loc[]`, `df.iloc[]`으로 행 선택 및 필터링<br>- `.isnull()`, `.dropna()`, `.fillna()`로 결측치 처리 |
 
-## 📊 Visualization 
-### 1. https://informationisbeautiful.net/
-### 2. 프랑스의 토목공학자 Charles Joseph Minard가 1869년에 제작
-- 나폴레옹의 1812년 러시아 원정 경로와 병력 수를 시각화
-- 정보 시각화의 전설적인 사례로 평가됨
-<img src='https://images.squarespace-cdn.com/content/v1/55b6a6dce4b089e11621d3ed/9c1e9ba5-730b-47c4-909f-99844252faad/Minard.png?format=2500w'>
+#### 🟩 Pandas 2: 시각화 및 통계 처리
+| 주제 | 기능 설명 |
+|------|-----------|
+| **Pandas 시각화 활용하기** | - `df.plot()`, `df.plot(kind='bar')`, `df.plot.hist()` 등<br>- `matplotlib` 연동: `plt.title()`, `plt.xlabel()` 등<br>- `seaborn`과의 연계 가능 |
+| **새로운 열 생성 및 요약 통계** | - `df['new_col'] = df['a'] + df['b']` 형태로 열 생성<br>- `df.assign()`으로 파생변수 추가<br>- `df.mean()`, `df.median()`, `df.std()` 등 요약통계<br>- `df.groupby('col').sum()` 그룹 집계 |
 
-### 3. 생존 편향(Survivorship bias)
-- 죽은 자는 말이 없다.
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Survivorship-bias.svg/1200px-Survivorship-bias.svg.png' width = 500 height=400>
-
-
-## 📌 Statistics
-- 보이는 것이 사실이 아니야.
-### 1. [Same Stats, Different Graphs](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
-### 2. [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
-### 3. 과학이란 무엇인가?
-<img src='https://files.sgbsg.nl/learningspy/uploads/2017/04/26124223/quote-i-often-say-that-when-you-can-measure-what-you-are-speaking-about-and-express-it-in-numbers-you-lord-kelvin-307359.jpg'>
-
+#### 🟨 Pandas 3: 구조 변환, 결합 및 시계열 처리
+| 주제 | 기능 설명 |
+|------|-----------|
+| **테이블 구조 변환 및 결합** | - `.pivot()`, `.pivot_table()` 피벗 변환<br>- `.melt()`로 wide to long 변환<br>- `.merge()`, `.join()`, `pd.concat()`으로 테이블 결합<br>- `on`, `how` 인자를 통한 다양한 조인 수행 |
+| **시계열 데이터 및 텍스트 데이터 처리** | - `pd.to_datetime()`, `.resample()`, `.dt` 접근자 활용<br>- `.str` 접근자로 텍스트 전처리 (`.str.lower()`, `.str.extract()` 등)<br>- `.replace()`, `.apply()` 등을 이용한 텍스트 정제 |
