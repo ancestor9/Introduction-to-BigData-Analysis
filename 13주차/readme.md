@@ -1,4 +1,6 @@
 ### 공공 데이터 수집, 전처리, 분석, 시각화 실습 (Python과 생성형 AI)
+
+## (자습)
 ### Gemini를 활용하여 머신러닝 LLM 실습하기
 
 1. [openai platform](https://platform.openai.com/docs/overview)
