@@ -3,7 +3,8 @@
 ## 1. 강의 목표
 - **Python 프로그래밍 :** 기본 문법과 실습 역량 습득 (2주차 ~ 6주차)
 - **Pandas 데이터 분석 :** 수집, 정제, 시각화, 통계분석 등 [Pandas](https://pandas.pydata.org/) (7주차, 9주차 ~ 12주차)
-- **MS AdventureWorks Sales 데이터로 mini project :** 외부 실습 데이터 (13주차 ~ 14주차)
+- **공공데이터 분석 및 실습 :** [서울시 공공자전거월별이용정보](https://data.seoul.go.kr/dataList/OA-15246/F/1/datasetView.do#) (13주차)
+- **MS AdventureWorks Sales 데이터로 mini project :** 외부 실습 데이터 (14주차)
 
 ## 2. 강의 내용
 #### [파이썬 기본문법 부교재](https://github.com/jakevdp/WhirlwindTourOfPython)
