@@ -1,4 +1,4 @@
-## 미니 프로젝트
+## 미니 프로젝트 (자습용)
 ** 머신러닝과 딥러닝코드는 자습 용
 
 ### 대상 데이터 : Adventure Works Internet Sales 
