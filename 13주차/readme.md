@@ -10,7 +10,7 @@
 3. 데이터 분석 및 시각화
 - matplolib, seaborn, 지도 시각화(folium)
 4. 텍스트 분석
-- 정규푠현식(Regular Expression)
+- 정규표현식(Regular Expression)
 
 **실습권장사항 : 3년치 데이터를 다운받아 merge하여 3년동안의 이용추세 시계열분석을 실습**
 
