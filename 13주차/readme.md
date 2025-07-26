@@ -14,4 +14,3 @@
 
 **실습권장사항 : 3년치 데이터를 다운받아 merge하여 3년동안의 이용추세 시계열분석을 실습**
 
-[Variational Inference](http://www.openias.org/variational-coin-toss)
