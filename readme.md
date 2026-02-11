@@ -6,7 +6,7 @@
 - **Python 프로그래밍 :** 기본 문법과 실습 역량 습득 (2주차 ~ 6주차)
 - **Pandas 데이터 입문 :** 수집, 정제, 시각화, 통계 분석 등 [Pandas](https://pandas.pydata.org/) (7주차)
 - **중간 퀴즈 :** (8주차)
-- **Pandas 데이터 분석 :** 수집, 정제, 시각화, 통계분석 등 [Pandas](https://pandas.pydata.org/) (9주차 ~ 12주차)
+- **Pandas 데이터 분석 :** 실습 (9주차 ~ 12주차)
 - **공공데이터 분석 및 실습 :** [서울시 공공자전거월별이용정보](https://data.seoul.go.kr/dataList/OA-15246/F/1/datasetView.do#) (13주차 ~ 14주차)
 - **기말 퀴즈 :** (15주차)
 
